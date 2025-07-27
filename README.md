@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm a Frontend Developer who enjoys working with JavaScript, TypeScript, React, Next.js — and anything that makes the web better.
+I'm a Frontend Developer who enjoys working with JavaScript, TypeScript, React, Next.js and anything that makes the web better.
 
 - 💻 Currently building fintech products as a Frontend Developer
 - 🌍 London-based, available for remote roles within the UK 
