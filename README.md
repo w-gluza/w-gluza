@@ -1,9 +1,9 @@
 ## Hi there 👋  
-I'm a Frontend Engineer building AI products in London.
+I'm a Frontend Engineer with 7+ years of experience, currently building AI products in London.
 
 I enjoy working at the intersection of engineering, design, and product - creating interfaces that are thoughtful, consistent, and easy to use. Throughout my career, I've worked on AI applications, design systems, experimentation, and products used by businesses across different markets.
 
-I care about writing clean, maintainable code and building frontend foundations that make products easier to evolve - not only for users, but also for the teams who continue developing them.
+I care about the details, from how an interface feels to how the code behind it is structured. I enjoy making things simpler, improving what already exists, and building maintainable frontend foundations that work well for both the people using a product and the teams building it.
 
 - 💻 Currently building the frontend experience for William AI at Apron
 - 📍 Based in London, UK
@@ -19,6 +19,12 @@ I care about writing clean, maintainable code and building frontend foundations 
 ### 💻 Languages & Frameworks
 JavaScript • TypeScript • React • Next.js • Redux • HTML5 • CSS3 • SASS • MUI
 
+### 🤖 AI Development (Claude / Copilot)
+Agentic workflows • Custom skills & agents • AI agent UX patterns
+
+### 🚨 Monitoring & Reliability
+Error monitoring & triage • Health dashboards • Feature flag lifecycle
+
 ### 🎨 Design & UX
 Figma • Storybook • Design Systems
 
@@ -32,7 +38,7 @@ A/B Testing • Product Analytics • Amplitude
 Git • GitHub • GitLab • GitHub Actions • GitLab CI • Docker • Sentry
 
 ### 🤝 Collaboration
-Agile • Jira • Confluence
+Agile • Linear • Jira • Confluence
 
 ### 🌱 Currently interested in
 - Building AI product experiences
