@@ -12,7 +12,6 @@ I care about the details, from how an interface feels to how the code behind it 
 - 📙 Or grab the quick overview in my [CV](https://www.wiola.dev/gluza_wioletta_cv.pdf)  
 - 💬 Always happy to connect over frontend engineering, AI products, thoughtful UX, or making things better.
 
----
 
 ## 🛠️ Skills
 
@@ -52,8 +51,8 @@ Git • GitHub • GitLab • GitHub Actions • GitLab CI • Docker • Sentry
 ### 🤝 Collaboration
 Agile • Linear • Jira • Confluence
 
-### 🌱 Currently interested in
+## 🌱 Currently interested in
+- Full-stack product engineering
+- Mobile development with React Native
 - Building AI product experiences
-- Frontend architecture and design systems
-- Experimentation and product development
-- Developer experience
+- Design systems and frontend architecture
