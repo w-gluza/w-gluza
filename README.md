@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm a Frontend Engineer with 7+ years of experience, currently building AI products in London.
+I'm a Senior Frontend Engineer with 7+ years of experience, currently building AI products in London.
 
 I enjoy working at the intersection of engineering, design, and product - creating interfaces that are thoughtful, consistent, and easy to use. Throughout my career, I've worked on AI applications, design systems, experimentation, and products used by businesses across different markets.
 
@@ -14,10 +14,19 @@ I care about the details, from how an interface feels to how the code behind it 
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-### 💻 Languages & Frameworks
-JavaScript • TypeScript • React • Next.js • Redux • HTML5 • CSS3 • SASS • MUI
+### 💻 Languages
+JavaScript • TypeScript • HTML5 • CSS3 • SQL
+
+### 🌐 Web
+React • Next.js • Redux • TanStack Query • Zod • CSS Modules • SASS • MUI
+
+### 🗄️ Full-stack
+Next.js API routes • PostgreSQL
+
+### 📱 Mobile
+React Native • Expo • iOS • Native navigation & platform APIs
 
 ### 🤖 AI Development (Claude / Copilot)
 Agentic workflows • Custom skills & agents • AI agent UX patterns
@@ -29,13 +38,16 @@ Error monitoring & triage • Health dashboards • Feature flag lifecycle
 Figma • Storybook • Design Systems
 
 ### 🧪 Testing
-Jest • React Testing Library • Cypress • MSW
+Vitest • Playwright • Jest • React Testing Library • Cypress • MSW
+
+### ♿ Accessibility
+WCAG 2.2 • WAI-ARIA • Keyboard & screen reader testing (VoiceOver) • axe
 
 ### 📊 Analytics & Experimentation
 A/B Testing • Product Analytics • Amplitude
 
 ### ⚙️ Tooling & CI
-Git • GitHub • GitLab • GitHub Actions • GitLab CI • Docker • Sentry
+Git • GitHub • GitLab • GitHub Actions • GitLab CI • Docker • Sentry • Vercel • npm publishing
 
 ### 🤝 Collaboration
 Agile • Linear • Jira • Confluence
